@@ -1,0 +1,5 @@
+background dark grey          #44475a
+background lighter blue-ish   #6272a4
+background contrast white-ish #f8f8f2
+purple contrast color         #bd93f9
+pink contrast color           #ff79c6
